@@ -62,3 +62,22 @@ Estas são as instruções para configurar o projeto localmente.
 **Para rodar a API de previsão:**
 ```sh
 # (Instruções futuras aqui)
+````
+
+#### 🗺️ Roadmap
+[ ] Fase 0: Prova de Conceito (PoC) - Validar a coleta de dados e o treinamento de um modelo base em um Jupyter Notebook.
+
+[ ] Fase 1: MVP do Backend - Construir a API de dados e o endpoint de previsão.
+
+[ ] Fase 2: MVP do Frontend e Deploy - Desenvolver o dashboard e implantar a primeira versão.
+
+[ ] Fase 3: Melhorias - Implementar re-treinamento automático, otimizar o modelo.
+
+#### ⚖️ Licença
+Distribuído sob a licença MIT. Veja LICENSE.txt para mais informações.
+
+#### 📧 Contato
+Carlos K P Gomes - ckauegomes@gmail.com
+
+Link do Projeto: https://github.com/carloskaue/eth-oracle
+# (Instruções futuras aqui)
