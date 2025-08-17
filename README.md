@@ -42,11 +42,11 @@ Estas são as instruções para configurar o projeto localmente.
 
 1.  Clone o repositório:
     ```sh
-    git clone [https://github.com/](https://github.com/)[SEU-USUARIO-GIT]/[NOME-DO-REPOSITORIO].git
+    git clone https://github.com/carloskaue/eth-oracle.git
     ```
 2.  Navegue até a pasta do projeto:
     ```sh
-    cd [NOME-DO-REPOSITORIO]
+    cd eth-oracle
     ```
 3.  Crie um ambiente virtual e instale as dependências:
     ```sh
